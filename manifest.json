@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Material You - Chromium Blue",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(51, 60, 77)",
+      "toolbar_text": "rgb(226, 226, 233)",
+      "frame": "rgb(23, 32, 48)",
+      "tab_background_text": "rgb(190, 198, 220)",
+      "toolbar_field": "rgb(29, 38, 54)",
+      "toolbar_field_text": "rgb(226, 226, 233)",
+      "tab_line": "rgb(51, 60, 77)",
+      "popup": "rgb(25, 28, 32)",
+      "popup_text": "rgb(226, 226, 233)",
+      "button_background_active": "rgb(101, 107, 121)",
+      "button_background_hover": "rgb(72, 80, 95)",
+      "frame_inactive": "rgb(37, 43, 55)",
+      "icons": "rgb(190, 198, 220)",
+      "ntp_background": "rgb(51, 60, 77)",
+      "ntp_text": "rgb(226, 226, 233)",
+      "toolbar_field_border_focus": "rgb(170, 199, 255)",
+      "toolbar_field_focus": "rgb(51, 60, 77)",
+      "tab_loading": "rgb(51, 60, 77)"
+    }
+  }
+}
